@@ -1,2 +1,3 @@
-# website
-The official website for Gusfer Inc.
+# Gusfer Inc.
+
+Hello, world! from Gusfer
