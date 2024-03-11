@@ -89,6 +89,7 @@ h1 {
 
 .bar {
   font-size: 1.1rem;
+  border-bottom: solid #394047 1px;
 }
 
 .bold {
@@ -140,12 +141,17 @@ a {
   font-style: italic;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 #about > h1, #projects > h1 {
   color:#a90848;
   background-color:#480721;
   border:1.3px dashed #a90848;
   border-radius:7px;
   padding:5px;
+  text-align: center;
 }
 
 .project-blob {
@@ -174,4 +180,13 @@ a {
 .projects-row {
   display:flex;
   flex-direction: row;
+}
+
+#banner {
+  text-align: center;
+  background-color: #2472f0;
+  height: 50px;
+  vertical-align: middle;
+  line-height: 3rem;
+  font-size: 17px;
 }
