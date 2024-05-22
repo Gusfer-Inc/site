@@ -1,0 +1,19 @@
+.font-default {
+    font-weight: 400;
+}
+
+.font-semibold {
+    font-weight: 500;
+}
+
+.font-bold {
+    font-weight: 600;
+}
+
+.font-bolder {
+    font-weight: 700;
+}
+
+.font-superbold {
+    font-weight: 800;
+}
